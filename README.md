@@ -39,7 +39,7 @@ DevOps        Git · CI/CD · Vite
 
 ---
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=salema97&show_icons=true&theme=github_dark&hide_border=true&count_private=true)](https://github.com/salema97) [![GitHub Streak](https://streak-stats.demolab.com/?user=salema97&theme=github-dark-blue&hide_border=true)](https://github.com/salema97)
+[![GitHub Stats](https://github-readme-stats.shion.dev/api?username=salema97&show_icons=true&theme=github_dark&hide_border=true&count_private=true)](https://github.com/salema97) [![GitHub Streak](https://streak-stats.demolab.com/?user=salema97&theme=github-dark-blue&hide_border=true)](https://github.com/salema97)
 
 *Code with purpose. Build with passion.*  
 *Agile mindset, solid foundations.*
