@@ -17,6 +17,16 @@ Passionate about Back-End development, not limited to it. Committed to deliverin
 
 <div align="center">
 
+### 🔭 Currently Working On
+
+</div>
+
+> Building full-stack solutions at KAIZENSOFTWARE S.A.S. — Node.js APIs, Flutter apps, and React/Vite web platforms, from requirements to deployment.
+
+---
+
+<div align="center">
+
 ### Experience
 
 </div>
@@ -30,18 +40,27 @@ Passionate about Back-End development, not limited to it. Committed to deliverin
 **Software Developer Intern** — ACNUR (UNHCR) · Dec 2021 – Feb 2022
 > Technical assistance project for refugee entrepreneurship (ACNUR-HIAS-ESPE). Maintenance and development of the Prowessec website.
 
+---
+
 <div align="center">
 
-### Tech DNA
+### 🛠️ Tech Stack
 
 </div>
 
-```
-Frontend      React · Angular · Flutter · HTML/CSS · JavaScript · TypeScript
-Backend       Node.js · Python · C# · Java/Spring Boot · PHP · API REST
-Database      MySQL · PostgreSQL · Firebase/Firestore · Advanced SQL
-DevOps        Git · CI/CD · Vite
-```
+**Frontend**
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+**Backend**
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white) ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+
+**Database & DevOps**
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black) ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+
+---
 
 <div align="center">
 
@@ -56,6 +75,12 @@ DevOps        Git · CI/CD · Vite
 ---
 
 <div align="center">
+
+### 📚 Beyond the Code
+
+Reading · Music · Videogames
+
+---
 
 [![GitHub Stats](https://github-readme-stats.shion.dev/api?username=salema97&show_icons=true&theme=github_dark&hide_border=true&count_private=true)](https://github.com/salema97) [![GitHub Streak](https://streak-stats.demolab.com/?user=salema97&theme=github-dark-blue&hide_border=true)](https://github.com/salema97)
 
