@@ -1,11 +1,11 @@
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=C9D1D9&center=true&vCenter=true&width=500&lines=Steven+Lema;Full-Stack+Software+Engineer)
 
-**Full-Stack Software Engineer at KAIZENSOFTWARE S.A.S.** · Available for new projects 🚀
+**Full-Stack Software Engineer at [KAIZENSOFTWARE S.A.S.](https://github.com/KaizenSoftwareEC)** · Available for new projects 🚀
 
 Passionate about Back-End development, not limited to it. Committed to delivering innovative, high-quality solutions in every project I take on.  
 🇪🇨 Cotopaxi, Ecuador
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-salema.dev-7C3AED?style=for-the-badge&logo=vercel&logoColor=white)](https://salema.dev) [![LinkedIn](https://img.shields.io/badge/LinkedIn-salema97-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/salema97) [![WhatsApp](https://img.shields.io/badge/WhatsApp-Contact-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/593988237106) [![Resume](https://img.shields.io/badge/Resume-Download-181717?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://salema.dev/files/CV%20-%20Steven%20Lema%20Vel%C3%A1squez.pdf)
+[![Kaizen](https://img.shields.io/badge/Kaizen_Software-kaizensoftware.com.ec-2ea44f?style=for-the-badge&logo=globe&logoColor=white)](https://kaizensoftware.com.ec) [![Portfolio](https://img.shields.io/badge/Portfolio-salema.dev-7C3AED?style=for-the-badge&logo=vercel&logoColor=white)](https://salema.dev) [![LinkedIn](https://img.shields.io/badge/LinkedIn-salema97-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/salema97) [![WhatsApp](https://img.shields.io/badge/WhatsApp-Contact-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/593988237106) [![Resume](https://img.shields.io/badge/Resume-Download-181717?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://salema.dev/files/CV%20-%20Steven%20Lema%20Vel%C3%A1squez.pdf)
 
 [![3+ Years](https://img.shields.io/badge/3%2B-Years_of_Experience-2ea44f?style=for-the-badge)](https://salema.dev) [![12+ Projects](https://img.shields.io/badge/12%2B-Projects_Delivered-2ea44f?style=for-the-badge)](https://salema.dev) [![14 Certs](https://img.shields.io/badge/14-Certifications-2ea44f?style=for-the-badge)](https://salema.dev) [![100%](https://img.shields.io/badge/100%25-Commitment-2ea44f?style=for-the-badge)](https://salema.dev)
 
