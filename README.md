@@ -1,3 +1,5 @@
+<div align="center">
+
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=C9D1D9&center=true&vCenter=true&width=500&lines=Steven+Lema;Full-Stack+Software+Engineer)
 
 **Full-Stack Software Engineer at [KAIZENSOFTWARE S.A.S.](https://github.com/KaizenSoftwareEC)** · Available for new projects 🚀
@@ -9,9 +11,15 @@ Passionate about Back-End development, not limited to it. Committed to deliverin
 
 [![3+ Years](https://img.shields.io/badge/3%2B-Years_of_Experience-2ea44f?style=for-the-badge)](https://salema.dev) [![12+ Projects](https://img.shields.io/badge/12%2B-Projects_Delivered-2ea44f?style=for-the-badge)](https://salema.dev) [![14 Certs](https://img.shields.io/badge/14-Certifications-2ea44f?style=for-the-badge)](https://salema.dev) [![100%](https://img.shields.io/badge/100%25-Commitment-2ea44f?style=for-the-badge)](https://salema.dev)
 
+</div>
+
 ---
 
+<div align="center">
+
 ### Experience
+
+</div>
 
 **Software Developer** — Freelance · Nov 2023 – Present
 > Web development with Vite, Flutter e-commerce applications, and Node.js APIs integrated with MySQL databases. Following the full development process, from requirements gathering to final deployment.
@@ -22,7 +30,11 @@ Passionate about Back-End development, not limited to it. Committed to deliverin
 **Software Developer Intern** — ACNUR (UNHCR) · Dec 2021 – Feb 2022
 > Technical assistance project for refugee entrepreneurship (ACNUR-HIAS-ESPE). Maintenance and development of the Prowessec website.
 
+<div align="center">
+
 ### Tech DNA
+
+</div>
 
 ```
 Frontend      React · Angular · Flutter · HTML/CSS · JavaScript · TypeScript
@@ -31,7 +43,11 @@ Database      MySQL · PostgreSQL · Firebase/Firestore · Advanced SQL
 DevOps        Git · CI/CD · Vite
 ```
 
+<div align="center">
+
 ### Certifications
+
+</div>
 
 - 🎓 **Ingeniero de Software** — SENESCYT · 2023
 - 🏅 **HackerRank**: SQL (Advanced), Angular, JavaScript, API REST, Problem Solving, React, Node, Python, CSS, C# · 2024–2025
@@ -39,9 +55,13 @@ DevOps        Git · CI/CD · Vite
 
 ---
 
+<div align="center">
+
 [![GitHub Stats](https://github-readme-stats.shion.dev/api?username=salema97&show_icons=true&theme=github_dark&hide_border=true&count_private=true)](https://github.com/salema97) [![GitHub Streak](https://streak-stats.demolab.com/?user=salema97&theme=github-dark-blue&hide_border=true)](https://github.com/salema97)
 
 *Code with purpose. Build with passion.*  
 *Agile mindset, solid foundations.*
 
 [![Let's Connect](https://img.shields.io/badge/Let_s_Connect-salema.dev-7C3AED?style=for-the-badge)](https://salema.dev)
+
+</div>
